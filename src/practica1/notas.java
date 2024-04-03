@@ -2,6 +2,7 @@ package practica1;
 
 import java.util.Scanner;
 //primera prueba para el Git
+//primera prueba para el Github
 /**
 * @version 1.0.0
 * @author Raul Lopez Isidro
