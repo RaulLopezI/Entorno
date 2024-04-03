@@ -1,7 +1,7 @@
 package practica1;
 
 import java.util.Scanner;
-
+//primera prueba para el Git
 /**
 * @version 1.0.0
 * @author Raul Lopez Isidro
